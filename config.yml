@@ -3,7 +3,7 @@ app:
   rel: 1
   entry: streamlink
 git:
-  repo: https://github.com/streamlink/streamlink.git
+  repo: https://github.com/kumaraguru1735/streamlink-drm.git
   ref: 7.5.0
 builds:
   aarch64:
